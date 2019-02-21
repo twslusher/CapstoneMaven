@@ -19,7 +19,7 @@ public class CalculatorTest {
         int num1 = 5;
         int num2 = 8;
 
-        assertEquals(12, Calculator.calculate(num1,num2));
+        assertEquals(11, Calculator.calculate(num1,num2));
     }
 
 }
